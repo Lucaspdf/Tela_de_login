@@ -1,1 +1,1 @@
-Projeto de tela de login em linguagem python (em andamento)
+Projeto de tela de login em linguagem python (finished)
